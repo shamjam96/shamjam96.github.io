@@ -1,0 +1,41 @@
+#profile {
+    border-radius: 50%;
+	display: block;
+    margin: auto;
+	margin-top:10px;
+}
+#container{
+	background-color:#ccccff	;
+	border-width:3px;
+	border-color:#000000;
+	border-style:solid;
+	border-radius: 30px;
+	width:80%;
+	display: block;
+    margin: auto;
+	margin-top:5px;
+	/*background: -webkit-linear-gradient(left top, #baff8e, #54c7ef); /* For Safari 5.1 to 6.0 */ 
+    /*background: -o-linear-gradient(bottom right, #baff8e, #54c7ef); /* For Opera 11.1 to 12.0 */
+    /*background: -moz-linear-gradient(bottom right, #baff8e, #54c7ef); /* For Firefox 3.6 to 15 */
+	/*background: linear-gradient(to bottom right, #baff8e, #54c7ef); /* Standard syntax (must be last) */
+	transform: translate(0, 2%);
+}
+.projectContainer{
+	border-width:1px;
+	border-color:#000000;
+	border-style:solid;
+	width:414px;
+	display: block;
+	background-color:#eeeeee;
+}
+hr {
+    border: 0;
+    border-top: 2px solid #000000;
+}
+body {
+	font-family: 'Roboto';
+	background-color:#f1ffed;
+	background-image:url("img/bg.jpg");
+	background-size: cover;
+	text-align:center;
+	}
